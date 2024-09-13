@@ -17,7 +17,7 @@ export const setupDeleteButton = (editor) => {
                   \`.____,' 
 
 Your notes have been deleted!
-Those pesky kitties! 🐱🐾
+Those pesky puppies! 🐶🐶
      `);
   });
 };

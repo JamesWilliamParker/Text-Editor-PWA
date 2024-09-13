@@ -1,5 +1,5 @@
 {
-  "name": "pwa-kitties",
+  "name": "pwa-teditor",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",

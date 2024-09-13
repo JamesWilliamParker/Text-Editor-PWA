@@ -1,5 +1,5 @@
 {
-  "name": "pwa-kitties",
+  "name": "pwa-teditor",
   "version": "1.0.0",
   "description": "Text editor application converted to PWA",
   "main": "server.js",
@@ -12,16 +12,16 @@
     "client": "cd client && npm start"
   },
   "keywords": [],
-  "author": "Mary Elenius",
+  "author": "James Parker",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/404pandas/pwa-kitties.git"
+    "url": "git+https://github.com/JamesWilliamParker"
   },
   "bugs": {
-    "url": "https://github.com/404pandas/pwa-kitties/issues"
+    "url": "https://github.com/JamesWilliamParker"
   },
-  "homepage": "https://github.com/404pandas/pwa-kitties#readme",
+  "homepage": "https://github.com/JamesWilliamParker/Text-Editor-PWA/blob/main/README.md",
   "dependencies": {
     "express": "^4.17.1"
   },
