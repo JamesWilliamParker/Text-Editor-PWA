@@ -4,18 +4,18 @@
   <!-- ![Name](urlToShieldHere)(urlToGithubHere) -->
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Contributors](https://img.shields.io/github/contributors/404pandas/pwa-teditor.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-teditor/graphs/contributors)
-[![Forks](https://img.shields.io/github/forks/404pandas/pwa-teditor.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-teditor/network/members)
-[![Stargazers](https://img.shields.io/github/stars/404pandas/pwa-teditor.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-teditor/stargazers)
-[![Issues](https://img.shields.io/github/issues/404pandas/pwa-teditor.svg?style=plastic&logo=appveyor)](https://github.com/404pandas/pwa-teditor/issues)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://linkedin.com/in/LinkedInUsername)
+[![Contributors](https://img.shields.io/github.com/JamesWilliamParker/Text-Editor-PWA.svg?style=plastic&logo=appveyor)](https://github.com/JamesWilliamParker/Text-Editor-PWA)
+[![Forks](https://img.shields.io/github.com/JamesWilliamParker/Text-Editor-PWA.svg?style=plastic&logo=appveyor)](https://github.com/JamesWilliamParker/Text-Editor-PWA)
+[![Stargazers](https://img.shields.io/github.com/JamesWilliamParker/Text-Editor-PWA.svg?style=plastic&logo=appveyor)](https://github.com/JamesWilliamParker/Text-Editor-PWA)
+[![Issues](https://img.shields.io/github.com/JamesWilliamParker/Text-Editor-PWA.svg?style=plastic&logo=appveyor)](https://github.com/JamesWilliamParker/Text-Editor-PWA)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=appveyor&logo=linkedin&colorB=555)](https://www.linkedin.com/in/jamesparker954/)
 
 </div>
 
 <!-- PROJECT LOGO -->
 
 <div align="center">
-  <a href="https://github.com/404pandas/pwa-teditor">
+  <a href="https://github.com/JamesWilliamParker/Text-Editor-PWA">
     <img src="./client/src/images/logoNew.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -26,11 +26,11 @@
     <a href="https://github.com/JamesWilliamParker/Text-Editor-PWA"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://pwa-teditor.onrender.com/">View App</a>
+    <a href="https://text-editor-pwa-rw7t.onrender.com">View App</a>
     ·
-    <a href="https://github.com/404pandas/pwa-teditor/issues">Report Bug</a>
+    <a href="https://github.com/JamesWilliamParker/Text-Editor-PWA">Report Bug</a>
     ·
-    <a href="https://github.com/404pandas/pwa-teditor/issues">Request Feature</a>
+    <a href="https://github.com/JamesWilliamParker/Text-Editor-PWA">Request Feature</a>
   </p>
 </div>
 
@@ -90,14 +90,14 @@ This project was built using Webpack, Babel, and CodeMirror to create a progress
 ## Getting Started
 
 This app is fully functional and live at:
-https://pwa-teditor.onrender.com/
+https://text-editor-pwa-rw7t.onrender.com/
 
 If you would like to run the app locally, follow the below installation instructions
 
 ### Installation
 
 1. Clone the repo
-   git clone https://github.com/404pandas/pwa-teditor.git
+   git clone https://github.com/JamesWilliamParker/Text-Editor-PWA
 
 <!-- USAGE EXAMPLES -->
 
@@ -133,7 +133,7 @@ Follow the prompts to complete the installation to operate this app offline!
 
 - [ ] Add front end
 
-See the [open issues](https://github.com/404pandas/pwa-teditor/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/JamesWilliamParker/Text-Editor-PWA) for a full list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 
@@ -164,11 +164,11 @@ See LICENSE.txt for more information.
 
 Mary Elenius - mary.panda.jackson@gmail.com
 
-Repo Link: [https://github.com/404pandas/pwa-teditor](https://github.com/404pandas/pwa-teditor)
-Live Link: [https://pwa-teditor.onrender.com/](https://pwa-teditor.onrender.com/)
+Repo Link: [https://github.com/JamesWilliamParker/Text-Editor-PWA](hhttps://github.com/JamesWilliamParker/Text-Editor-PWA)
+Live Link: [https://text-editor-pwa-rw7t.onrender.com/](https://text-editor-pwa-rw7t.onrender.com/)
 
 <!-- ACKNOWLEDGMENTS -->
 
 ## Acknowledgments
 
-I would like to give a big shoutout to my partner in crime and daughter, Yennefer! Every day she proves she is small yet mighty!
+Thanks Mary!
